@@ -13,7 +13,7 @@ spec:
         app: mi-aplicacion
     spec:
       containers:
-      - name: mi-aplicacion
-        image: NOMBRE_DE_TU_IMAGEN_DOCKER:TAG
+      - name: app-muebles
+        image: alanfvn/parcialdos:v1
         ports:
-        - containerPort: 5000 # El puerto en el que se ejecuta tu aplicación
+        - containerPort: 8585 # El puerto en el que se ejecuta tu aplicación
