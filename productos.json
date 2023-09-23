@@ -1,20 +1,38 @@
 [
-    {
-        "id": 1,
-        "nombre": "Sofá",
-        "descripcion": "Un cómodo sofá para tu sala de estar.",
-        "imagen": "images/sofa.jpg"
-    },
-    {
-        "id": 2,
-        "nombre": "Mesa de centro",
-        "descripcion": "Una elegante mesa de centro para tu sala.",
-        "imagen": "images/mesa.jpg"
-    },
-    {
-        "id": 3,
-        "nombre": "Lámpara",
-        "descripcion": "Una lámpara moderna para iluminar tu hogar.",
-        "imagen": "images/lampara.jpg"
-    }
+  {
+    "id": 1,
+    "nombre": "Sofa",
+    "descripcion": "Un comodo sofa para tu sala de estar.",
+    "imagen": "images/sofa.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mesa de centro",
+    "descripcion": "Una elegante mesa de centro para tu sala.",
+    "imagen": "images/mesa.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Lampara",
+    "descripcion": "Una lampara moderna para iluminar tu hogar.",
+    "imagen": "images/lampara.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Credenza",
+    "descripcion": "Credenza bonita",
+    "imagen": "images/credenza.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Tocador",
+    "descripcion": "Tocador oscuro",
+    "imagen": "images/tocador.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Librera",
+    "descripcion": "Librear espaciosa",
+    "imagen": "images/librera.jpg"
+  }
 ]

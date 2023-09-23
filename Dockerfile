@@ -15,12 +15,3 @@ EXPOSE 8181
 
 # Comando para ejecutar la aplicación Flask
 CMD ["python", "app.py"]
-
-
-
-
-
-
-
-
-
